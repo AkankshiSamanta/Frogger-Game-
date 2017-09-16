@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+}
+
+.title{
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+    text-shadow: 0px 0px 17px rgba(74, 175, 204, 1);
+    display: inline-block;
+}
